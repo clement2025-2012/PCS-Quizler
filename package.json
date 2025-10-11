@@ -1,9 +1,7 @@
 {
   "name": "pcs-quizler",
   "version": "1.0.0",
-  "description": "PCS Quizler Educational Quiz App",
   "scripts": {
-    "build": "echo 'No build step required' " // You can customize if you have a build process
-  },
-  "dependencies": { }
+    "build": "echo \"No build step required\""
+  }
 }
